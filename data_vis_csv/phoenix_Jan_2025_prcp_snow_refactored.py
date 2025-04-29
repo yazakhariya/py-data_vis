@@ -1,7 +1,7 @@
 from pathlib import Path
 import csv
 from datetime import datetime
-from typing import List, Tuple
+from typing import List
 
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
